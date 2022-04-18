@@ -83,6 +83,9 @@ EXTRAS_REQUIRE = {
         'mypy==0.902',
         'types-pkg-resources',
     ],
+    'rich': [
+        'rich',
+    ]
 }
 
 PACKAGE_DATA = {
